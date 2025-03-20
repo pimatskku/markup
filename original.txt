@@ -5,9 +5,9 @@ Markup languages describe document structures, enrich content for automated proc
 Programming languages, in contrast, provide instructions for performing logic, computations, and algorithms to manipulate and process data.
 
 Features of Markup Languages
-	•	Used for document structuring
-	•	Easy formatting
-	•	Human-readable
+• Used for document structuring
+• Easy formatting
+• Human-readable
 
 Examples of Markup Languages
 
@@ -30,8 +30,8 @@ Complexity: Low
 Examples of Programming Languages
 
 Programming and scripting languages, unlike markup languages, contain logic to instruct computers to perform tasks.
-	1.	Python
-	2.	JavaScript
-	3.	Java
-	4.	R
-	5.	C++
+1. Python
+2. JavaScript
+3. Java
+4. R
+5. C++
