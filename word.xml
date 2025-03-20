@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Word.Document"?>
+<w:wordDocument xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml">
+  <w:body>
+
+    <w:p>
+      <w:pPr><w:pStyle w:val="Heading1"/></w:pPr>
+      <w:r><w:t>Markup Language vs Programming Language</w:t></w:r>
+    </w:p>
+
+    <w:p>
+      <w:r><w:b/><w:t>Markup languages</w:t></w:r>
+      <w:r><w:t xml:space="preserve"> describe document structures, enrich content for automated processing, and control presentation or formatting, without </w:t></w:r>
+      <w:r><w:b/><w:t>executing</w:t></w:r>
+      <w:r><w:t xml:space="preserve"> logic or computations.</w:t></w:r>
+    </w:p>
+
+    <w:p>
+      <w:r><w:b/><w:t>Programming languages</w:t></w:r>
+      <w:r><w:t xml:space="preserve">, in contrast, provide instructions for performing logic, computations, and algorithms to manipulate and process data.</w:t></w:r>
+    </w:p>
+
+    <w:p>
+      <w:pPr><w:pStyle w:val="Heading2"/></w:pPr>
+      <w:r><w:t>Features of Markup Languages</w:t></w:r>
+    </w:p>
+
+    <w:p><w:r><w:t>• Used for document structuring</w:t></w:r></w:p>
+    <w:p><w:r><w:t>• Easy formatting</w:t></w:r></w:p>
+    <w:p><w:r><w:t>• Human-readable</w:t></w:r></w:p>
+
+    <w:p>
+      <w:pPr><w:pStyle w:val="Heading3"/></w:pPr>
+      <w:r><w:t>Examples of Markup Languages</w:t></w:r>
+    </w:p>
+
+    <w:tbl>
+      <w:tblPr><w:tblBorders>
+        <w:top w:val="single"/><w:bottom w:val="single"/><w:left w:val="single"/><w:right w:val="single"/>
+        <w:insideH w:val="single"/><w:insideV w:val="single"/>
+      </w:tblBorders></w:tblPr>
+      <w:tr>
+        <w:tc><w:p><w:r><w:b/><w:t>Language</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:b/><w:t>Purpose</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:b/><w:t>Complexity</w:t></w:r></w:p></w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc><w:p><w:r><w:t>XML</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:t>Data exchange</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:t>High</w:t></w:r></w:p></w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc><w:p><w:r><w:t>HTML</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:t>Web content</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:t>Medium</w:t></w:r></w:p></w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc><w:p><w:r><w:t>LaTeX</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:t>Typesetting</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:t>Medium</w:t></w:r></w:p></w:tc>
+      </w:tr>
+      <w:tr>
+        <w:tc><w:p><w:r><w:t>Markdown</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:t>Documentation</w:t></w:r></w:p></w:tc>
+        <w:tc><w:p><w:r><w:t>Low</w:t></w:r></w:p></w:tc>
+      </w:tr>
+    </w:tbl>
+
+    <w:p>
+      <w:pPr><w:pStyle w:val="Heading3"/></w:pPr>
+      <w:r><w:t>Examples of Programming Languages</w:t></w:r>
+    </w:p>
+
+    <w:p>
+      <w:r><w:i/><w:t>Programming and Scripting languages</w:t></w:r>
+      <w:r><w:t xml:space="preserve">, unlike markup languages, contain logic to instruct computers to perform tasks.</w:t></w:r>
+    </w:p>
+
+    <w:p><w:r><w:t>1. Python</w:t></w:r></w:p>
+    <w:p><w:r><w:t>2. JavaScript</w:t></w:r></w:p>
+    <w:p><w:r><w:t>3. Java</w:t></w:r></w:p>
+    <w:p><w:r><w:t>4. R</w:t></w:r></w:p>
+    <w:p><w:r><w:t>5. C++</w:t></w:r></w:p>
+
+  </w:body>
+</w:wordDocument>
